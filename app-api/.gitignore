@@ -1,6 +1,6 @@
-#dependencies
+# dependencies
 /node_modules
 /build
 
-#misc
+# misc
 .DS_Store
