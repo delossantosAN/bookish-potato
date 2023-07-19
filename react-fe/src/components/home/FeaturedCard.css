@@ -1,0 +1,15 @@
+.card-img-top {
+  width: 250px;
+  height: 250px;
+}
+.card {
+  height: 100%;
+  border-radius: 5px;
+  text-align: center;
+}
+.row {
+  row-gap: 20px;
+}
+.space {
+  margin-bottom: 100px;
+}
